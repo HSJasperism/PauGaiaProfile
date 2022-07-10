@@ -71,10 +71,10 @@ html, body {
 }
 
 .panel {
-    font-family: 'Poiret One', sans-serif;
+    font-family: 'Arcon', sans-serif;
     border-radius: 10px;
     color: #FFF;
-    font-size: 13px;
+    font-size: 16px;
     margin-bottom: 30px;
 }
 
@@ -83,8 +83,8 @@ html, body {
     }
 
     .panel h2 {
-        font-family: 'BeonRegular', serif;
-        font-size: 15px;
+        font-family: 'Helsinki', serif;
+        font-size: 20px;
         background: transparent;
     }
 
